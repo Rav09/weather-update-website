@@ -1,0 +1,1 @@
+The Weather Update Website is a simple and user-friendly application that provides real-time weather updates for any city around the world. This project is built using HTML, CSS, and JavaScript, and leverages the OpenWeatherMap API to fetch weather data.
